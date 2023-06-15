@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>I am running this project with pnpm package manager.</Text>
+      <Text>I am running this project with yarn package manager.</Text>
       <StatusBar style="auto" />
     </View>
   );
